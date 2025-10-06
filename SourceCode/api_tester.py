@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 一个功能完整的命令行HTTP接口测试工具 (v3 - 支持详细模式)
-作者: Gemini
+作者: Bale
 """
 import requests
 import argparse
